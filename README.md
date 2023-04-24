@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning rust.
+I'm currently learning rust and contribute to satori.
 
 <!--
 **Jackie1210/Jackie1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
