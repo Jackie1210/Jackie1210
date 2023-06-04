@@ -2,7 +2,7 @@
 
 I'm currently learning rust and contribute to **satori**.
 
-If my work did help you, please think about [sponsor](https://clynn.xyz/sponsor) me ❤️. (github sponsor is coming)
+If my work did help you, please think about [sponsor](https://www.clynn.xyz/sponsor) me ❤️. (github sponsor is coming)
 
 <!--
 **Jackie1210/Jackie1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
