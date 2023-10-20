@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently contributing to [**satori**]([https://](https://github.com/vercel/satori)).
+I'm currently contributing to [**satori**](https://github.com/vercel/satori).
 
 If my work did help you, please think about [sponsor](https://www.clynn.xyz/sponsor) me ❤️.
 
